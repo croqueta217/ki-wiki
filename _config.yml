@@ -4,6 +4,7 @@ baseurl: "/jekyll-wiki-template" # the subpath of your site, e.g. /blog/
 url: "https://github.com/croqueta217/ki-wiki"
 
 theme: minimal-mistakes-jekyll
+remote_theme: mistakes/minimal-mistakes
 minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
