@@ -1,6 +1,6 @@
 var store = [{
         "title": "Seite 1",
-        "excerpt":"Das ist Seite 1 im Wiki.  ","categories": [],
+        "excerpt":"Das ist Seite 1 im Wiki.   bla  ","categories": [],
         "tags": [],
         "url": "/jekyll-wiki-template/seite1/",
         "teaser": null
